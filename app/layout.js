@@ -1,7 +1,7 @@
+import Header from '@/components/Header';
 import MobileAlert from '@/components/MobileAlert';
 import localFont from 'next/font/local';
 import './globals.css';
-import Header from '/components/header';
 
 const generalSans = localFont({ src: '../public/fonts/GeneralSans-Variable.ttf', variable: '--font-generalsans' });
 
