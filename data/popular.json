@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yogyakarta, Indonesia",
+        "accom": 1234,
+        "image": "/images/jogja-destination.jpg"
+    },
+    {
+        "name": "Bali, Indonesia",
+        "accom": 2457,
+        "image": "/images/bali.jpg"
+    },
+    {
+        "name": "Lombok, Indonesia",
+        "accom": 1234,
+        "image": "/images/lombok.jpg"
+    },
+    {
+        "name": "Raja Ampat, Indonesia",
+        "accom": 1234,
+        "image": "/images/rajaampat.jpg"
+    }
+]

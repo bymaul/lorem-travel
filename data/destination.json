@@ -1,0 +1,74 @@
+[
+    {
+        "image": "/images/komodo.jpg",
+        "title": "Visiting Komodo Island and Overnighting on a Pleasurable Boat",
+        "rating": "4.8",
+        "location": "Labuan Bajo",
+        "person": "10-12",
+        "price": "1.500.000"
+    },
+    {
+        "image": "/images/bromo.jpg",
+        "title": "Bromo and Ijen Crater Tour Package - Banyuwangi Tourism",
+        "rating": "4.8",
+        "location": "Malang",
+        "person": "4-8",
+        "price": "750.000"
+    },
+    {
+        "image": "/images/jogja.jpg",
+        "title": "Exploring Yogyakarta and Engaging in Exciting Fun Games",
+        "rating": "4.8",
+        "location": "Yogyakarta",
+        "person": "10-12",
+        "price": "500.000"
+    },
+    {
+        "image": "/images/lombok.jpg",
+        "title": "Holiday to Lombok with The Beauty Of Beautiful Sembalun - Lombok Trip",
+        "rating": "4.9",
+        "location": "Denpasar",
+        "person": "4-7",
+        "price": "2.250.000"
+    },
+    {
+        "image": "/images/bali.jpg",
+        "title": "Explore Bali and Visit Beautiful Places - Bali Trip I",
+        "rating": "4.9",
+        "location": "Bali",
+        "person": "2-4",
+        "price": "3.950.000"
+    },
+    {
+        "image": "/images/toba.jpg",
+        "title": "Fun Games and Stay Near The Charming Lake Toba - Toba Trip",
+        "rating": "4.8",
+        "location": "Medan",
+        "person": "10-12",
+        "price": "1.999.000"
+    },
+    {
+        "image": "/images/bali2.jpg",
+        "title": "Overnight in Bali and An Unforgettable Tour - Bali Trip II",
+        "rating": "4.8",
+        "location": "Ubud",
+        "person": "10-12",
+        "price": "2.500.000"
+    },
+    {
+        "image": "/images/rajaampat.jpg",
+        "title": "Visit to East Indonesia Which Is Very Beautiful - Raja Ampat Trip",
+        "rating": "5.0",
+        "location": "Raja Ampat",
+        "person": "2-4",
+        "price": "5.200.000"
+    },
+    {
+        "image": "/images/jogja2.jpg",
+        "title": "Vacation in Yogyakarta by Bisiting Interesting Places - Jogja Trip II",
+        "rating": "4.9",
+        "location": "Yogyakarta",
+        "person": "10-12",
+        "price": "500.000"
+    }
+]

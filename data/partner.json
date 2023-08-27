@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Marriott",
+        "image": "/images/brands/marriott.png"
+    },
+    {
+        "name": "Panorama Destination",
+        "image": "/images/brands/panorama.png"
+    },
+    {
+        "name": "Garuda Indonesia",
+        "image": "/images/brands/garuda.png"
+    },
+    {
+        "name": "Airasia",
+        "image": "/images/brands/airasia.png"
+    },
+    {
+        "name": "Hyatt",
+        "image": "/images/brands/hyatt.png"
+    },
+    {
+        "name": "Citilink",
+        "image": "/images/brands/citilink.png"
+    },
+    {
+        "name": "Oracle",
+        "image": "/images/brands/oracle.png"
+    },
+    {
+        "name": "Microsoft",
+        "image": "/images/brands/microsoft.png"
+    },
+    {
+        "name": "Google",
+        "image": "/images/brands/google.png"
+    }
+]
